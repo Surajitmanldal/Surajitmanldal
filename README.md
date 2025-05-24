@@ -31,7 +31,7 @@ A passionate Web Developer | BCA Student | DSA Learner
 
 ## 📈 GitHub Stats
 
-![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal&show_icons=true&theme=radical)
+![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajitmanldal&layout=compact&theme=radical)
 
