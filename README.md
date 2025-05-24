@@ -30,8 +30,13 @@ A passionate Web Developer | BCA Student | DSA Learner
 - 🏅 Built multiple responsive UI projects
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal
-&show_icons=true&theme=radical)
+
+![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajitmanldal&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajitmanldal&theme=radical)
+
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/surajit-mandal-b7148a306/)
