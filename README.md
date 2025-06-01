@@ -40,5 +40,5 @@ A passionate Web Developer | BCA Student | DSA Learner
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/surajit-mandal-b7148a306/)
-- [Portfolio Website](https://myportfolio-azure-chi.vercel.app/) 
+- [Portfolio Website](https://surajitportfolio.vercel.app/) 
 
