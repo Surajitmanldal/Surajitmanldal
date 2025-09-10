@@ -81,7 +81,7 @@ A passionate Web Developer | BCA Student | DSA Learner
 - 🎤 **Virtual Assistant**  
   A powerful and interactive full-stack **Virtual Assistant** with authentication, real-time AI responses, image uploads, and voice features.  
   **Tech Stack**: React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API  
-  🔗 [Live Demo]([https://your-virtual-assistant-link.com](https://virtualassistant-samk.onrender.com/))   
+  🔗 [Live Demo](https://virtualassistant-samk.onrender.com/)  
 
 ## 🏆 Achievements
 - ⭐ Completed 90+ DSA problems on [[LeetCode](https://leetcode.com/u/surajitmandal23/)]
