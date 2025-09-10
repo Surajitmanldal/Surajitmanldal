@@ -62,18 +62,26 @@ A passionate Web Developer | BCA Student | DSA Learner
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
 
 
+## 🚀 Projects
 
-## 📂 Projects
-
+### 🌐 Frontend Projects
 - 💰 **Crypto Place**  
   A modern and responsive website to track real-time cryptocurrency prices and trends.  
-  **Tech Stack**: HTML, CSS, JavaScript, React,CoinGecko API  
+  **Tech Stack**: HTML, CSS, JavaScript, React, CoinGecko API  
   🔗 [View Project](https://crypto-place-alw8.vercel.app/) 
 
 - 🤖 **Survis AI Chatbot**  
   An interactive AI chatbot designed to assist users by answering questions and providing support.  
-  **Tech Stack**: HTML, CSS, JavaScript,React, Gemeni APi   
-  🔗 [View Project](https://survisai.netlify.app/) 
+  **Tech Stack**: HTML, CSS, JavaScript, React, Gemini API   
+  🔗 [View Project](https://survisai.netlify.app/)  
+
+---
+
+### ⚙️ Full-Stack Projects
+- 🎤 **Virtual Assistant**  
+  A powerful and interactive full-stack **Virtual Assistant** with authentication, real-time AI responses, image uploads, and voice features.  
+  **Tech Stack**: React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API  
+  🔗 [Live Demo]([https://your-virtual-assistant-link.com](https://virtualassistant-samk.onrender.com/))   
 
 ## 🏆 Achievements
 - ⭐ Completed 90+ DSA problems on [[LeetCode](https://leetcode.com/u/surajitmandal23/)]
