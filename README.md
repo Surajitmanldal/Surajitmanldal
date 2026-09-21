@@ -88,7 +88,7 @@ A full-stack food delivery platform with separate user, owner, and delivery part
 An interactive full-stack AI virtual assistant with authentication, AI-powered conversations, image uploads, and voice interaction. Users can communicate with the assistant through text and voice while securely managing their accounts.
 
 **Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API, Web Speech API
-🔗 **Live Demo:** https://virtualassistant-samk.onrender.com/
+🔗[[ **Live Demo:** ](https://virtualassistant-samk.onrender.com/)]
 🔗 **GitHub:** [Add GitHub Link]
 
 
