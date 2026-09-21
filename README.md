@@ -96,10 +96,11 @@ An interactive full-stack AI virtual assistant with authentication, AI-powered c
 - 🏅 Built multiple responsive UI projects
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal&show_icons=true&theme=radical)
+![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajitmanldal&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajitmanldal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajitmanldal&layout=compact&theme=radical&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajitmanldal&theme=radical)
 
