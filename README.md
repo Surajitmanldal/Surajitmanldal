@@ -12,7 +12,7 @@ A passionate Web Developer | BCA Student | DSA Learner
 ## 🔧 Skills & Technologies  
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -64,24 +64,33 @@ A passionate Web Developer | BCA Student | DSA Learner
 
 ## 🚀 Projects
 
-### 🌐 Frontend Projects
-- 💰 **Crypto Place**  
-  A modern and responsive website to track real-time cryptocurrency prices and trends.  
-  **Tech Stack**: HTML, CSS, JavaScript, React, CoinGecko API  
-  🔗 [View Project](https://crypto-place-alw8.vercel.app/) 
+### 🛡️ NexGuard VPN Management
 
-- 🤖 **Survis AI Chatbot**  
-  An interactive AI chatbot designed to assist users by answering questions and providing support.  
-  **Tech Stack**: HTML, CSS, JavaScript, React, Gemini API   
-  🔗 [View Project](https://survisai.netlify.app/)  
+A full-stack VPN management platform that allows users to create and manage WireGuard VPN devices through a web dashboard. The system automatically generates WireGuard keys, configures VPN peers on an AWS EC2 server, and provides downloadable VPN configurations.
+
+**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, AWS EC2, WireGuard, Linux, SSH2
+🔗 **Live Demo:** (https://nextguard.vercel.app/)
 
 ---
 
-### ⚙️ Full-Stack Projects
-- 🎤 **Virtual Assistant**  
-  A powerful and interactive full-stack **Virtual Assistant** with authentication, real-time AI responses, image uploads, and voice features.  
-  **Tech Stack**: React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API  
-  🔗 [Live Demo](https://virtualassistant-samk.onrender.com/)  
+### 🍔 Foodio – Food Delivery Platform
+
+A full-stack food delivery platform with separate user, owner, and delivery partner roles. It includes real-time order tracking, nearby delivery partner discovery, authentication, online payments, image uploads, and real-time order assignment.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, Redux Toolkit, Tailwind CSS, JWT, Socket.IO, Cloudinary, Leaflet, Razorpay
+🔗 **Live Demo:** https://foodio-food.onrender.com/
+🔗 **GitHub:** [Add GitHub Link]
+
+---
+
+### 🤖 Virtual Assistant
+
+An interactive full-stack AI virtual assistant with authentication, AI-powered conversations, image uploads, and voice interaction. Users can communicate with the assistant through text and voice while securely managing their accounts.
+
+**Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API, Web Speech API
+🔗 **Live Demo:** https://virtualassistant-samk.onrender.com/
+🔗 **GitHub:** [Add GitHub Link]
+
 
 ## 🏆 Achievements
 - ⭐ Completed 90+ DSA problems on [[LeetCode](https://leetcode.com/u/surajitmandal23/)]
