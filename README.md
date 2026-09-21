@@ -69,7 +69,7 @@ A passionate Web Developer | BCA Student | DSA Learner
 A full-stack VPN management platform that allows users to create and manage WireGuard VPN devices through a web dashboard. The system automatically generates WireGuard keys, configures VPN peers on an AWS EC2 server, and provides downloadable VPN configurations.
 
 **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, AWS EC2, WireGuard, Linux, SSH2
-🔗 **Live Demo:** (https://nextguard.vercel.app/)
+🔗  [[**Live Demo:**](https://nextguard.vercel.app/)]
 
 ---
 
@@ -79,7 +79,6 @@ A full-stack food delivery platform with separate user, owner, and delivery part
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, Redux Toolkit, Tailwind CSS, JWT, Socket.IO, Cloudinary, Leaflet, Razorpay
 🔗 **Live Demo:** https://foodio-food.onrender.com/
-🔗 **GitHub:** [Add GitHub Link]
 
 ---
 
@@ -89,7 +88,6 @@ An interactive full-stack AI virtual assistant with authentication, AI-powered c
 
 **Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Mongoose, JWT, Cloudinary, Gemini API, Web Speech API
 🔗[[ **Live Demo:** ](https://virtualassistant-samk.onrender.com/)]
-🔗 **GitHub:** [Add GitHub Link]
 
 
 ## 🏆 Achievements
