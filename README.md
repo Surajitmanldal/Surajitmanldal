@@ -62,7 +62,7 @@
 
 ## 🚀 Tech Ecosystem - Professional Arsenal
 
-### 🎨 **Frontend Technologies**
+### �� **Frontend Technologies**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -278,14 +278,6 @@ I'm passionate about building amazing products and collaborating with like-minde
 ### 📊 Profile Views & Engagement
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Surajitmanldal&style=for-the-badge&color=blue)
-
-### 💝 Support My Work
-
-If you find my projects helpful and want to support my work:
-
-<a href="https://www.buymeacoffee.com/surajitmanldal" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
-</a>
 
 ---
 
