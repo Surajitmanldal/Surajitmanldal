@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=30&duration=3000&pause=1000&lines=👋+Welcome+to+my+Profile!;🚀+I'm+Surajit+Mandal;💻+Full+Stack+Developer;🎯+Building+the+Web" alt="Typing SVG" width="100%"/>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=50&duration=3000&pause=1000&lines=👋+Welcome+to+my+Profile!;🚀+I'm+Surajit+Mandal;💻+Full+Stack+Developer;🎯+Building+the+Web" alt="Typing SVG" width="100%"/>
 
 ---
 
@@ -22,7 +22,7 @@
 </td>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/SvokDVuFAVJ0ZZNuTS/giphy.gif" width="100%" alt="Developer" style="border-radius: 15px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding" style="border-radius: 15px;"/>
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Next.js 14 • TypeScript • Prisma • PostgreSQL • NextAuth.js • AWS EC2 
 <td width="40%">
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-1E90FF?style=for-the-badge&logoColor=white)](https://nextguard.vercel.app/)
-
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal)
 
 </td>
 </tr>
