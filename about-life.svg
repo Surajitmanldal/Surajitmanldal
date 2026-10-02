@@ -1,0 +1,43 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.5" stop-color="#120F28"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="panelA" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1C203B"/>
+      <stop offset="1" stop-color="#141C32"/>
+    </linearGradient>
+    <linearGradient id="panelB" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#291B36"/>
+      <stop offset="1" stop-color="#1B122B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="420" rx="30" fill="url(#bg2)"/>
+  <circle cx="1200" cy="90" r="180" fill="#232F5A" opacity="0.5"/>
+  <circle cx="100" cy="360" r="200" fill="#291B36" opacity="0.5"/>
+
+  <g>
+    <rect x="82" y="70" width="580" height="280" rx="28" fill="url(#panelA)" stroke="#2C3B61"/>
+    <rect x="102" y="90" width="180" height="12" rx="6" fill="#F472B6"/>
+    <rect x="296" y="90" width="120" height="12" rx="6" fill="#60A5FA"/>
+    <rect x="430" y="90" width="180" height="12" rx="6" fill="#34D399"/>
+
+    <text x="108" y="165" fill="#FDFDFF" font-size="38" font-weight="800" font-family="Segoe UI, Arial, sans-serif">WHAT I BUILD</text>
+    <text x="110" y="215" fill="#DDE7FF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Responsive web apps</text>
+    <text x="110" y="255" fill="#DDE7FF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Full-stack digital products</text>
+    <text x="110" y="295" fill="#DDE7FF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Deployment-ready experiences</text>
+    <text x="110" y="335" fill="#DDE7FF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Problem-solving with clean UI + logic</text>
+  </g>
+
+  <g>
+    <rect x="720" y="70" width="600" height="280" rx="28" fill="url(#panelB)" stroke="#4A335B"/>
+    <text x="760" y="156" fill="#FDFDFF" font-size="38" font-weight="800" font-family="Segoe UI, Arial, sans-serif">LIFE BEYOND CODE</text>
+    <text x="760" y="216" fill="#EBDDFF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Learning Java, DSA, and architecture</text>
+    <text x="760" y="256" fill="#EBDDFF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Improving design sense and UX thinking</text>
+    <text x="760" y="296" fill="#EBDDFF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Exploring AI ideas and product design</text>
+    <text x="760" y="336" fill="#EBDDFF" font-size="26" font-weight="600" font-family="Segoe UI, Arial, sans-serif">• Turning concepts into polished experiences</text>
+  </g>
+</svg>

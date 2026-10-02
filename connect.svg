@@ -1,0 +1,48 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1020"/>
+      <stop offset="0.5" stop-color="#121C35"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <linearGradient id="pinkGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF5FA2"/>
+      <stop offset="1" stop-color="#FF8C42"/>
+    </linearGradient>
+    <linearGradient id="blueGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2DE2FF"/>
+      <stop offset="1" stop-color="#7C72FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="420" rx="30" fill="url(#bg5)"/>
+  <circle cx="1180" cy="80" r="180" fill="#1F2E4F" opacity="0.6"/>
+  <circle cx="100" cy="330" r="170" fill="#21162F" opacity="0.6"/>
+
+  <g>
+    <rect x="90" y="70" width="1220" height="280" rx="34" fill="#0F1729" stroke="#23314D"/>
+    <rect x="122" y="100" width="200" height="200" rx="36" fill="url(#pinkGrad2)"/>
+    <text x="222" y="190" text-anchor="middle" fill="#0B1120" font-size="82" font-weight="800" font-family="Segoe UI, Arial, sans-serif">S</text>
+
+    <text x="372" y="165" fill="#F5F7FF" font-size="40" font-weight="800" font-family="Segoe UI, Arial, sans-serif">LET'S CONNECT</text>
+    <text x="372" y="210" fill="#AFC2FF" font-size="24" font-weight="600" font-family="Segoe UI, Arial, sans-serif">I'm open to collaborations, internships, and meaningful projects.</text>
+
+    <g transform="translate(372 236)">
+      <rect x="0" y="0" width="170" height="52" rx="26" fill="url(#blueGrad2)"/>
+      <text x="85" y="33" text-anchor="middle" fill="#08111D" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">LinkedIn</text>
+
+      <rect x="190" y="0" width="170" height="52" rx="26" fill="#0E2B2B" stroke="#00F5A0"/>
+      <text x="275" y="33" text-anchor="middle" fill="#DFFCF0" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Email</text>
+
+      <rect x="380" y="0" width="170" height="52" rx="26" fill="#2C1D3A" stroke="#FF5FA2"/>
+      <text x="465" y="33" text-anchor="middle" fill="#FFE5F3" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Portfolio</text>
+    </g>
+
+    <g transform="translate(980 115)">
+      <rect x="0" y="0" width="230" height="180" rx="22" fill="#111B2B" stroke="#23314D"/>
+      <text x="24" y="44" fill="#8FA3DF" font-size="14" font-weight="600" font-family="Segoe UI, Arial, sans-serif">STATUS</text>
+      <text x="24" y="90" fill="#3AE6A8" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Available</text>
+      <text x="24" y="124" fill="#DDE8FF" font-size="16" font-weight="500" font-family="Segoe UI, Arial, sans-serif">for internships &amp; freelance build</text>
+    </g>
+  </g>
+</svg>
