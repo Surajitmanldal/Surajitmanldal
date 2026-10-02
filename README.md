@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=50&duration=3000&pause=1000&lines=👋+Welcome+to+my+Profile!;🚀+I'm+Surajit+Mandal;💻+Full+Stack+Developer;🎯+Building+the+Web" alt="Typing SVG" width="100%"/>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=30&duration=3000&pause=1000&lines=👋+Welcome+to+my+Profile!;🚀+I'm+Surajit+Mandal;💻+Full+Stack+Developer;🎯+Building+the+Web" alt="Typing SVG" width="100%"/>
 
 ---
 
@@ -109,7 +109,7 @@ Next.js 14 • TypeScript • Prisma • PostgreSQL • NextAuth.js • AWS EC2 
 <td width="40%">
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-1E90FF?style=for-the-badge&logoColor=white)](https://nextguard.vercel.app/)
-[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal)
+
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS 
 <td width="40%">
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-FF6B35?style=for-the-badge&logoColor=white)](https://foodio-food.onrender.com/)
-[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal/Foodio)
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ React • Express.js • MongoDB • Gemini API • Web Speech API • Cloudinar
 <td width="40%">
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-10B981?style=for-the-badge&logoColor=white)](https://virtualassistant-samk.onrender.com/)
-[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logoColor=white)](https://github.com/Surajitmanldal/virtualAssistant)
 
 </td>
 </tr>
@@ -216,9 +216,8 @@ React • Express.js • MongoDB • Gemini API • Web Speech API • Cloudinar
 ```
 Advanced React Patterns & Optimization    ████████░ 80%
 Microservices Architecture                ███████░░ 70%
-Cloud Technologies (AWS, Docker)          ██████░░░ 60%
+Cloud Technologies (AWS)                  ██████░░░ 60%
 System Design & Scalability               █████░░░░ 50%
-GraphQL & Modern APIs                     ████░░░░░ 40%
 ```
 
 ---
